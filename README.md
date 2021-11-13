@@ -2,7 +2,7 @@
 
 
 
- *What is the benifite of this site
+ * What is the benifite of this site
 
 
 
